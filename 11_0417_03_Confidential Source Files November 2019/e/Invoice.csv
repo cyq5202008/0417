@@ -1,0 +1,26 @@
+Super-Disk-Sales;;;;;;;;Less than;Discount rate
+;;;;;;;;;
+To:;Tawara Technology Studios;;;;;;;10;0
+;32 Acacia Avenue;;;;;;;20;0.05
+;Tawara;;;;;;;50;0.1
+;45673;;;;;;;;0.2
+;;;;;;;;;
+;;;;;;;;;
+Invoice;;;;;;;;;
+;;;;;;;;;
+Product code;Number of items;Make;Model;Capacity;Unit price;Price;;;
+SSD8;10;Samsing;850 Evo;1024; € 280,00 ; £10.240,00 ;;;
+ssd10;1;Sandisc;Extreme Pro ;240; € 116,00 ; £240,00 ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+;;;;;  ;  ;;;
+Total       items;11;;;;Price    before discount; £10.480,00 ;;;
+;;;Discount rate;0.05;Discount;#VALUE!;;;
+;;;;;Total;#VALUE!;;;

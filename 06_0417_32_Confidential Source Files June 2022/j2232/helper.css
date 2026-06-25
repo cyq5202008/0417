@@ -1,0 +1,15 @@
+h1, h2, h3 {font-family:"Casion Pro Bold","Times New Roman";}
+h1 {color:red;
+font-size:30pt;
+text-align:center}
+h2 {color:black;
+font-size:18pt;
+text-align:justify}
+h3 {color:black;
+font-size:14pt;
+text-align:left}
+body {background:#da9f25 url('j2232logo.png') no-repeat fixed right top;
+background-size: 200px 150px;}
+td{padding:10px}
+table {margin-right:25%;margin-left:5%;margin-top:5%;margin-bottom:5%}
+table, td{ border:0}

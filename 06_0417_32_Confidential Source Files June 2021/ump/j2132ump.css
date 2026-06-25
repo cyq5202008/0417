@@ -1,0 +1,19 @@
+/* J*/
+table         { border: 1px solid black;
+                border-collapse: separate;
+	            border-spacing:20px;
+    		    min-width: 400px;
+				margin-left:auto;
+				margin-right:auto}
+			
+td            { border: 1px solid black;}
+body {background-color:#6fead6}
+h1 {font-family:"Domino Regular","Domino","serif";
+text-align:center;
+font-size:24px;
+color:black}
+h2 {font-family:"Domino Regular","Domino","serif";
+text-align:justify;
+font-size:16px;
+color:black}
+
